@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: rgb(1, 46, 46);
+    color: white;
+}
+h1{
+    font-family: serif;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: yellow;
+    text-shadow: 2px 3px 0px darkorange;
+}
+h3{
+    font-family: sans-serif;
+    color: green;
+}
+.serif{
+    font-family: serif;
+}
+.sans-serif{
+    font-family: sans-serif;
+}
+.fantasy{
+    font-family: fantasy;
+}
+.cursive{
+    font-family: cursive;
+}
+.monospace{
+    font-family: monospace;
+}
